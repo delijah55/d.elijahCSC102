@@ -1,0 +1,18 @@
+SIMPLE INTEREST:
+1. Take input for principal amount (P), rate of interest (R), and time duration (T) in years.
+2. Calculate simple interest using the formula: (P * R * T) / 100
+3. Print the calculated simple interest.
+
+COMPOUND INTEREST:
+1. Take input for principal amount (P), rate of interest (R), time duration (T), and number of times the interest is compounded per year (n).
+2. Calculate the interest rate per period using the formula: r = R / n
+3. Calculate the total number of periods using the formula: periods = n * T
+4. Calculate the future value using the formula: FV = P * (1 + r)**periods
+5. Print the calculated future value.
+
+ANNUITY PLAN:
+1. Take input for the periodic payment (PMT), rate of interest (R), time duration (T), and number of times the interest is compounded per year (n).
+2. Calculate the interest rate per period using the formula: r = R / n
+3. Calculate the future value using the formula: FV = PMT * ((1 + r)**(n * T) - 1) / (r * (1 + r)**(n * T))
+4. Print the calculated future value.
+
