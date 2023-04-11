@@ -1,0 +1,19 @@
+Algorithim that takes as input two names and their corresponding age and swaps them:
+
+Start by asking the user to input their first name and age.
+
+Store the first name and age in separate variables.
+
+Ask the user to input their second name and age.
+
+Store the second name and age in separate variables.
+
+Print out the names and ages before the swap.
+
+Create a temporary variable and store the age of the first person in it.
+
+Set the age of the first person to the age of the second person.
+
+Set the age of the second person to the value stored in the temporary variable.
+
+Print out the names and ages after the swap.
