@@ -1,0 +1,17 @@
+Pseudocode for Store checkout after Purchase:
+
+1) Calculate the total amount of the purchase.
+
+2) Ask the customer if they have discounts to apply.
+
+3) If a discount is provided, apply it to the total amount.
+
+4) Calculate the final amount to be paid after applying the discount.
+
+5) Ask the customer to choose a payment method.
+
+6) Process the payment according to the chosen method.
+
+7) Print a receipt with the details of the purchase, including the total amount, any discounts applied.
+
+8) The final amount paid, and the payment method used.
