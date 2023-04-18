@@ -1,0 +1,7 @@
+First I Created two dataframes for the girls and boys respectively.
+
+Print out the girls dataframe in a tabular form without the index column using the to_string() method of the dataframe.
+
+Print out the string “Boys:” on a new line using the 'print()' function..
+
+Print out the boys dataframe in a tabular form without the index column using the 'to_string()' method of the dataframe.
